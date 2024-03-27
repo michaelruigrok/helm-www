@@ -10,3 +10,4 @@ indent_style = tab
 [*.{html,js,json,md,sass,scss,yaml}]
 indent_style = space
 indent_size = 2
+
